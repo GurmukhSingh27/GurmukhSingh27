@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gurmukh Singh Dadiala</h1>
-<h3 align="center">A passionate Full-Stack Web Developer from India</h3>
+<h3 align="center">A passionate Full-Stack Web Developer from Lucknow,India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurmukhsingh27&label=Profile%20views&color=0e75b6&style=flat" alt="gurmukhsingh27" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurmukhsingh27" alt="gurmukhsingh27" /></a> </p>
 
 - 🌱 I’m currently learning **React.js, Node.js, JavaScript, Express.js, Java**
 
@@ -14,7 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gurmukhsinghdadiala27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gurmukhsinghdadiala27" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/25435565/gurmukh-singh-dadiala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/25435565/gurmukh-singh-dadiala" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/busygurmukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="busygurmukh" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/busyguvmqy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/busyguvmqy/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
